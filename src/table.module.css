@@ -1,0 +1,14 @@
+table{
+    width: 800px;
+    
+}
+
+th {
+    border: solid 2px rgb(0, 0, 0);
+}
+
+td{
+    border: solid 2px rgb(0, 0, 0);
+    width: 20px;
+    align-items: center;
+}
